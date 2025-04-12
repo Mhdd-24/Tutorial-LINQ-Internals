@@ -12,3 +12,4 @@
 /Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.pdb
 /Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.genruntimeconfig.cache
 /Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/ref/LinqInternals.dll
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.sourcelink.json
