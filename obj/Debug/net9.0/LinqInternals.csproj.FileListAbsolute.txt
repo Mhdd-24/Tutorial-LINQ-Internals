@@ -1,0 +1,14 @@
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/bin/Debug/net9.0/LinqInternals
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/bin/Debug/net9.0/LinqInternals.deps.json
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/bin/Debug/net9.0/LinqInternals.runtimeconfig.json
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/bin/Debug/net9.0/LinqInternals.dll
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/bin/Debug/net9.0/LinqInternals.pdb
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.AssemblyInfoInputs.cache
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.AssemblyInfo.cs
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.csproj.CoreCompileInputs.cache
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.dll
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/refint/LinqInternals.dll
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.pdb
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/LinqInternals.genruntimeconfig.cache
+/Users/mhdd24/Desktop/Details/Mohammed Rafi/Practice Project/LinqInternals/obj/Debug/net9.0/ref/LinqInternals.dll
