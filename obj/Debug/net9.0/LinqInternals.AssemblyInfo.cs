@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqInternals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a33726813ee77b3ef31da95a847781f7a61ae4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d665249ef5ea4882faf8a642550857bc7f3f596")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqInternals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqInternals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

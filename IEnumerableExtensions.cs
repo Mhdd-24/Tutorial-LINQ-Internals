@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace LinqInternals
 {
-    public static class IEunumerableExtension
+    public static class IEnumerableExtensions
     {
         public static IEnumerable<T> NewWhere<T>(this IEnumerable<T> items, Func<T, bool> predicate)
         {
@@ -33,6 +33,26 @@ namespace LinqInternals
                 foreach (var innerItem in selector(item))
                 {
                     yield return innerItem;
+                }
+            }
+        }
+
+        public static IEnumerable<TResult> NewJoin<T, TH, TKey, TResult>(
+    this IEnumerable<T> items,
+    IEnumerable<TH> innerItems,
+    Func<T, TKey> outerKeySelector,
+    Func<TH, TKey> innerKeySelector,
+    Func<T, TH, TResult> resultSelector
+)
+        {
+            foreach (var item in items)
+            {
+                foreach (var innerItem in innerItems)
+                {
+                    if (outerKeySelector(item).Equals(innerKeySelector(innerItem)))
+                    {
+                        yield return resultSelector(item, innerItem);
+                    }
                 }
             }
         }
